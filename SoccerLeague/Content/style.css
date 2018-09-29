@@ -1,0 +1,36 @@
+﻿body {
+    background-image: url('image/soccer-sports-backgrounds-wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+td, th {
+    height: 50px;
+    width: 4rem;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    font-size: 20px;
+    font-weight: bold;
+    background: lightblue;
+}
+
+td {
+    font-size: 15px;
+}
+
+h2 {
+    font-family: fantasy;
+}
